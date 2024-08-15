@@ -56,3 +56,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 6. https://github.com/cytoscape/cytoscape.js/blob/master/documentation/demos/edge-types/cy-style.json
 7. https://js.cytoscape.org/#demos
 8. https://stackoverflow.com/questions/66467451/how-to-use-cytoscape-js-extension-in-typescript
+9. https://github.com/tgdwyer/WebCola/tree/master/website/examples
+10. https://marvl.infotech.monash.edu/webcola/
+11. https://github.com/cytoscape/cytoscape.js-cola
+12. https://ialab.it.monash.edu/webcola/
